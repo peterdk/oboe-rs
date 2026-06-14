@@ -296,7 +296,7 @@ impl Builder {
             "-Wall",
             "-Wextra-semi",
             "-Wshadow",
-            "-Wshadow-field",
+            // "-Wshadow-field",
             "-fno-rtti",
             "-fno-exceptions",
             //"-Ofast",
