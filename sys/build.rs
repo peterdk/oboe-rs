@@ -293,9 +293,9 @@ impl Builder {
         });
         for flag in &[
             "-std=c++17",
-            "-Wall",
-            "-Wextra-semi",
-            "-Wshadow",
+            // "-Wall",
+            // "-Wextra-semi",
+            // "-Wshadow",
             // "-Wshadow-field",
             "-fno-rtti",
             "-fno-exceptions",
